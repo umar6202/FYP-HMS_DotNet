@@ -3,16 +3,14 @@
 A fully featured Hospital Management System having a well designed Database Schema made as a final project with .NET and Web Services. Its based on the 3 Tier Architecture.
 
 ### Signup Page 
-<img src="images/main1.png"/>
 
 ### Take Appointment
 <img src="images/appointment1.png"/> 
 
 ### Current Appointments
-<img src="images/current1.png"/> 
 
 ### Search Staff
-<img src="images/search.png"/> 
+<img src="./png"/> 
 
 ### 1. Patient:
 
