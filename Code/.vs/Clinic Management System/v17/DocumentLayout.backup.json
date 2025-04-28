@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My Work\\University\\Semester 8\\Final CSSE- 608 FYP 2\\HMS vs\\Hospital_Management_ASP.NET-main\\Code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|d:\\my work\\university\\semester 8\\final csse- 608 fyp 2\\hms vs\\hospital_management_asp.net-main\\code\\dbproject\\dal\\mydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|solutionrelative:dbproject\\dal\\mydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|D:\\My Work\\University\\Semester 8\\Final CSSE- 608 FYP 2\\HMS vs\\Hospital_Management_ASP.NET-main\\Code\\dbproject\\admin\\doctorregistrationform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|solutionrelative:dbproject\\admin\\doctorregistrationform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|D:\\My Work\\University\\Semester 8\\Final CSSE- 608 FYP 2\\HMS vs\\Hospital_Management_ASP.NET-main\\Code\\dbproject\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|solutionrelative:dbproject\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|D:\\My Work\\University\\Semester 8\\Final CSSE- 608 FYP 2\\HMS vs\\Hospital_Management_ASP.NET-main\\Code\\dbproject\\admin\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|solutionrelative:dbproject\\admin\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|D:\\My Work\\University\\Semester 8\\Final CSSE- 608 FYP 2\\HMS vs\\Hospital_Management_ASP.NET-main\\Code\\dbproject\\patient\\patientmaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|solutionrelative:dbproject\\patient\\patientmaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|D:\\My Work\\University\\Semester 8\\Final CSSE- 608 FYP 2\\HMS vs\\Hospital_Management_ASP.NET-main\\Code\\dbproject\\admin\\adminhome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|solutionrelative:dbproject\\admin\\adminhome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|D:\\My Work\\University\\Semester 8\\Final CSSE- 608 FYP 2\\HMS vs\\Hospital_Management_ASP.NET-main\\Code\\dbproject\\assets\\css\\patient-style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|solutionrelative:dbproject\\assets\\css\\patient-style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Admin.Master",
+              "DocumentMoniker": "D:\\My Work\\University\\Semester 8\\Final CSSE- 608 FYP 2\\HMS vs\\Hospital_Management_ASP.NET-main\\Code\\DBProject\\Admin\\Admin.Master",
+              "RelativeDocumentMoniker": "DBProject\\Admin\\Admin.Master",
+              "ToolTip": "D:\\My Work\\University\\Semester 8\\Final CSSE- 608 FYP 2\\HMS vs\\Hospital_Management_ASP.NET-main\\Code\\DBProject\\Admin\\Admin.Master",
+              "RelativeToolTip": "DBProject\\Admin\\Admin.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-22T07:54:06.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "myDAL.cs",
+              "DocumentMoniker": "D:\\My Work\\University\\Semester 8\\Final CSSE- 608 FYP 2\\HMS vs\\Hospital_Management_ASP.NET-main\\Code\\DBProject\\DAL\\myDAL.cs",
+              "RelativeDocumentMoniker": "DBProject\\DAL\\myDAL.cs",
+              "ToolTip": "D:\\My Work\\University\\Semester 8\\Final CSSE- 608 FYP 2\\HMS vs\\Hospital_Management_ASP.NET-main\\Code\\DBProject\\DAL\\myDAL.cs*",
+              "RelativeToolTip": "DBProject\\DAL\\myDAL.cs*",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAqwNkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T12:55:23.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoctorRegistrationForm.aspx.cs",
+              "DocumentMoniker": "D:\\My Work\\University\\Semester 8\\Final CSSE- 608 FYP 2\\HMS vs\\Hospital_Management_ASP.NET-main\\Code\\DBProject\\Admin\\DoctorRegistrationForm.aspx.cs",
+              "RelativeDocumentMoniker": "DBProject\\Admin\\DoctorRegistrationForm.aspx.cs",
+              "ToolTip": "D:\\My Work\\University\\Semester 8\\Final CSSE- 608 FYP 2\\HMS vs\\Hospital_Management_ASP.NET-main\\Code\\DBProject\\Admin\\DoctorRegistrationForm.aspx.cs",
+              "RelativeToolTip": "DBProject\\Admin\\DoctorRegistrationForm.aspx.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:07:17.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignUp.aspx",
+              "DocumentMoniker": "D:\\My Work\\University\\Semester 8\\Final CSSE- 608 FYP 2\\HMS vs\\Hospital_Management_ASP.NET-main\\Code\\DBProject\\SignUp.aspx",
+              "RelativeDocumentMoniker": "DBProject\\SignUp.aspx",
+              "ToolTip": "D:\\My Work\\University\\Semester 8\\Final CSSE- 608 FYP 2\\HMS vs\\Hospital_Management_ASP.NET-main\\Code\\DBProject\\SignUp.aspx",
+              "RelativeToolTip": "DBProject\\SignUp.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-17T13:05:38.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatientMaster.Master",
+              "DocumentMoniker": "D:\\My Work\\University\\Semester 8\\Final CSSE- 608 FYP 2\\HMS vs\\Hospital_Management_ASP.NET-main\\Code\\DBProject\\Patient\\PatientMaster.Master",
+              "RelativeDocumentMoniker": "DBProject\\Patient\\PatientMaster.Master",
+              "ToolTip": "D:\\My Work\\University\\Semester 8\\Final CSSE- 608 FYP 2\\HMS vs\\Hospital_Management_ASP.NET-main\\Code\\DBProject\\Patient\\PatientMaster.Master",
+              "RelativeToolTip": "DBProject\\Patient\\PatientMaster.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-22T08:50:25.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "patient-style.css",
+              "DocumentMoniker": "D:\\My Work\\University\\Semester 8\\Final CSSE- 608 FYP 2\\HMS vs\\Hospital_Management_ASP.NET-main\\Code\\DBProject\\assets\\css\\patient-style.css",
+              "RelativeDocumentMoniker": "DBProject\\assets\\css\\patient-style.css",
+              "ToolTip": "D:\\My Work\\University\\Semester 8\\Final CSSE- 608 FYP 2\\HMS vs\\Hospital_Management_ASP.NET-main\\Code\\DBProject\\assets\\css\\patient-style.css",
+              "RelativeToolTip": "DBProject\\assets\\css\\patient-style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-22T09:19:57.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminHome.aspx.cs",
+              "DocumentMoniker": "D:\\My Work\\University\\Semester 8\\Final CSSE- 608 FYP 2\\HMS vs\\Hospital_Management_ASP.NET-main\\Code\\DBProject\\Admin\\AdminHome.aspx.cs",
+              "RelativeDocumentMoniker": "DBProject\\Admin\\AdminHome.aspx.cs",
+              "ToolTip": "D:\\My Work\\University\\Semester 8\\Final CSSE- 608 FYP 2\\HMS vs\\Hospital_Management_ASP.NET-main\\Code\\DBProject\\Admin\\AdminHome.aspx.cs",
+              "RelativeToolTip": "DBProject\\Admin\\AdminHome.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T08:42:12.986Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
