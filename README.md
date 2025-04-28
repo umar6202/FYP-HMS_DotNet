@@ -1,6 +1,6 @@
 # ⚕️ Hospital Management System - Made using C#, ASP.net
 
-A fully featured Clinic Management System having a well designed Database Schema made as a final project for the course "Application Development with .NET and Web Services CS624" during my Semester at [Pace University](https://www.pace.edu/). Its based on the 3 Tier Architecture.
+A fully featured Hospital Management System having a well designed Database Schema made as a final project with .NET and Web Services. Its based on the 3 Tier Architecture.
 
 ### Signup Page 
 <img src="images/main1.png"/>
@@ -58,6 +58,7 @@ Authentication: Windows Authentication
 <p align="center">
 <img src="images/connection.png" width = "500"/> 
 </p>
+also connect your visual basics database with .\SQLEXRPESS
 
 3- Now open Schema.sql file in Database Files folder and execute it all. This will create the database and the tables. Afterwards execute the following sql files: Admin.sql, Doctor.sql, Patient.sql, Signup.sql.
 
